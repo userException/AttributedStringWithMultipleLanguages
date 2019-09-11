@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  AttributedStringWithMultipleLanguages
+
+  Created by Nipun on 11/09/19.
+  
+*/
+"user_welcome_message" = "Bienvenue, assurez-vous de fournir l'autorisation \"Toujours\" l'emplacement.";
